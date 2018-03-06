@@ -4,7 +4,7 @@
       <div class="body">
         <div class="row">
           <div class="col-md-12">
-            <h2>WELCOME TO THE HOME PAGE</h2>
+            <h2>WELCOME TO THE HOME PAGE IN HOME.VUE</h2>
           </div>
         </div>
       </div>
